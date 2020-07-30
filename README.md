@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## Who Am I?
 
-I'm an Indian Undergraduate Student currently undertaking a Bachelors in Computer Science and Engineering from G.B Pant Institute of Engineering and Technology.I'm a Pythoneer who loves coding in Python along with other General-Purpose Languages like C and Java. I'm passionate about Machine laerning, and Web Development with an active interest in making content videos on websites like YouTube.
+I'm an Indian Undergraduate Student currently undertaking a Bachelors in Computer Science and Engineering from G.B Pant Institute of Engineering and Technology.I'm a Pythoneer who loves coding in Python along with other General-Purpose Languages like C and Java. I'm passionate about Machine learning, and Web Development with an active interest in making content videos on websites like YouTube.
 
 ## Contact Me ☎️
 
