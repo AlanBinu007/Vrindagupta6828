@@ -1,4 +1,4 @@
-### Hi there 👋
+### Vrinda Gupta
 
 <!--
 **Vrindagupta6828/Vrindagupta6828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href=https://github.com/TesseractCoding/NeoAlgo>
+   <img src=https://img.shields.io/badge/NeoAlgo-Contributor-brightgreen>
+</a>
