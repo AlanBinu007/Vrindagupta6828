@@ -37,7 +37,7 @@ Thanks!! ✌️
 <p align="center">
 <a href="https://www.youtube.com/channel/UCW8Jb90x-BXajUebFaROpmA?view_as=subscriber" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="vrinda gupta" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/vrinda-gupta-149891186/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vrindagupta6828" height="30" width="30" /></a>
-<a href="https://fb.com/vrinda gupta.1422409" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="vrinda gupta.1422409" height="30" width="30" /></a>
+<a href="https://www.facebook.com/profile.php?id=100004206634437" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="vrinda gupta.1422409" height="30" width="30" /></a>
 <a href="https://instagram.com/vrinda_gupta.vg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="vrinda_gupta.vg" height="30" width="30" /></a>
 </p>
 
