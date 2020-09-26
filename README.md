@@ -4,8 +4,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on django framework by applying my learnings in a chat application. I am also contributing to some open source.
+- 🌱 I’m currently learning Django
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -20,7 +20,10 @@ Here are some ideas to get you started:
 
 ## Who Am I?
 
-I'm an Indian Undergraduate Student currently undertaking a Bachelors in Computer Science and Engineering from G.B Pant Institute of Engineering and Technology.I'm a Pythoneer who loves coding in Python along with other General-Purpose Languages like C and Java. I'm passionate about Machine learning, and Web Development with an active interest in making content videos on websites like YouTube.
+I'm an Indian Undergraduate Student currently undertaking a Bachelors in Computer Science and Engineering from G.B Pant Institute of Engineering and Technology.I'm a Pythoneer who loves coding in Python along with other General-Purpose Languages like C and Java. I'm passionate about Machine learning, and Web Development with an active interest in making content videos on websites like YouTube.I have also completed 1 of the Hackerearth contests with a decent position on the leaderboard. Currently I am applying my learnings of django framework in a chat application. I am also contributing to some open source.
+
+- 🔭 I’m currently working on django framework by applying my learnings in a chat application. I am also contributing to some open source.
+- 🌱 I’m currently learning Django
 
 ## Contact Me ☎️
 
