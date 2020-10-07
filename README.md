@@ -33,7 +33,9 @@ I'm an Indian Undergraduate Student currently undertaking a Bachelors in Compute
 
 Thanks!! ✌️
 
+<!--
 <a href=https://github-readme-stats.vercel.app">
+-->
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vrindagupta6828&layout=compact" alt="Vrinda6828" />
  </a>
 
