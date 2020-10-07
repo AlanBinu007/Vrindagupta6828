@@ -33,9 +33,16 @@ I'm an Indian Undergraduate Student currently undertaking a Bachelors in Compute
 
 Thanks!! ✌️
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrindagupta6828&layout=compact" alt="vrindagupta6828" /></p>
+<a href=https://github-readme-stats.vercel.app">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vrindagupta6828&layout=compact" alt="Vrinda6828" />
+ </a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vrindagupta6828&show_icons=true" alt="vrindagupta6828" /></p>
+
+<a href="https://github.com/Vrindagupta6828/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vrindagupta6828&show_icons=true&theme=radical&count_private=true" alt="VrindaGupta github stats" />
+</a>
+<br />
+<br />
 
 <p align="center">
 <a href="https://www.youtube.com/channel/UCW8Jb90x-BXajUebFaROpmA?view_as=subscriber" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="vrinda gupta" height="30" width="30" /></a>
