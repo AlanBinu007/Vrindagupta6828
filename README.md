@@ -1,4 +1,4 @@
-# Vrinda Gupta 
+# Hi 👋, I'm Vrinda Gupta 
 <!--
 **Vrindagupta6828/Vrindagupta6828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
