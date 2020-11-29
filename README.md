@@ -35,6 +35,15 @@ I'm an Indian Undergraduate Student currently undertaking a Bachelors in Compute
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+## 📺 Latest YouTube Videos
+
+- [Unboxing of my FIRST Swag Kit !!!!! SWAGS By Microsoft !!!! 😍😱😯](https://www.youtube.com/watch?v=_SLC7MTgKA8&t=4s)
+- [Top Scholarship Programs for Women In Technology!! 💯⭐](https://www.youtube.com/watch?v=Ug0EkMhVYE0&t=1s)
+- [Top 9 student programs you can apply to right now!!(Tips, reality and benefits) (Microsoft, Google)](https://www.youtube.com/watch?v=X2iZIMfh4AA&t=1s)
+- [How to work smart|Time management tips|Tips to increase Productivity|Study Less Score More](https://www.youtube.com/watch?v=BdKRcjZmElw&t=283s)
+- [Want to get placed in google,apple,Microsoft|Product-based Companies|Recruitment Process|Life](https://www.youtube.com/watch?v=ldMTHf1uSP0&t=25s)
+
+
 ## Contact Me ☎️
 
 * Mail me on [Gmail](vrindagupta6828@gmail.com) 
