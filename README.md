@@ -31,7 +31,6 @@ I'm an Indian Undergraduate Student currently undertaking a Bachelors in Compute
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/machinelearning/machinelearning.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
@@ -41,24 +40,6 @@ I'm an Indian Undergraduate Student currently undertaking a Bachelors in Compute
 * Mail me on [Gmail](vrindagupta6828@gmail.com) 
 * Connect me on [LinkedIn](linkedin.com/in/vrinda-gupta-149891186)
 * Follow me on  [YouTube](https://www.youtube.com/channel/UCW8Jb90x-BXajUebFaROpmA)
-
-<!--
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-C++          3 hrs 8 mins    ███████████████████████▒░   93.43 % 
-JavaScript   11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
-Text         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-``` -->
-<!--END_SECTION:waka-->
-<!--
-🚧 **My Todoist Stats:**
-<!-- TODO-IST:START -->
-🏆  6,128 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 450 tasks so far           
-⏳  Longest streak is 10 days -->
-<!-- TODO-IST:END -->
 
 Thanks!! ✌️
 
