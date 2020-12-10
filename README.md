@@ -1,4 +1,5 @@
-# Hi 👋, I'm Vrinda Gupta 
+<p align="center"> <img src="https://raw.githubusercontent.com/Vrindagupta6828/Vrindagupta6828/master/assest/hello.gif" alt="hello" /> </p>
+<h1 align="center">Hi 👋, I'm Vrinda Gupta</h1>
 <!--
 **Vrindagupta6828/Vrindagupta6828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,6 +27,8 @@ I'm an Indian Undergraduate Student currently undertaking a Bachelors in Compute
 - 🔭 I’m currently contributing to some open source.
 - 🌱 I’m currently learning various new technologies.
 - 💬 Ask me about anything, I am happy to help;
+
+<p align="center"> <img src="https://raw.githubusercontent.com/vrindagupta6828/vrindagupta6828/master/assest/coder.gif" alt="codergif" /> </p>
 
 ## Languages and Tools  
 
