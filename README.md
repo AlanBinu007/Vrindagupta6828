@@ -1,10 +1,10 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/Vrindagupta6828/Vrindagupta6828/master/assest/hello.gif" alt="hello" /> </p>
 <h1 align="center">Hi 👋, I'm Vrinda Gupta</h1>
 <!--
-**Vrindagupta6828/Vrindagupta6828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+**Vrindagupta6828/Vrindagupta6828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+<!--
+Here are some ideas to get you started: -->
+<!--
 - 🔭 I’m currently working on django framework by applying my learnings in a chat application. I am also contributing to some open source.
 - 🌱 I’m currently learning Django
 - 👯 I’m looking to collaborate on ...
@@ -12,8 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ...   -->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Vrindagupta6828.Vrindagupta6828)
 <a href=https://github.com/TesseractCoding/NeoAlgo>
